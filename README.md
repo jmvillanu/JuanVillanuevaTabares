@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JuanVillanuevaTabares
-- 👀 I’m interested in Data Science & Software Development
-- 🌱 I’m currently learning Python, Math, Statistics, Java, Javascript, React, VueJs, Git, GutHub...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Data Science Fellow, Python Development
+- 🌱 Machine Learning, Python, Pandas, NumPy, Scikit-learn, SQL, AWS, Statistics, Git,
+- 💞️ I’m looking to collaborate on AI projects.
+- 📫 How to reach me: juanvillanueva.tabares@gmail.com
 
 <!---
 JuanVillanuevaTabares/JuanVillanuevaTabares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
