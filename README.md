@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuanVillanuevaTabares
-- 👀 Data Science Fellow, Python Development
+- 👀 Data Science Fellow, Machine Learning Engineer, Python Developer
 - 🌱 Machine Learning, Python, Pandas, NumPy, Scikit-learn, SQL, AWS, Statistics, Git,
 - 💞️ I’m looking to collaborate on AI projects in Energy, Tech and Healthcare industries.
 - 📫 How to reach me: juanvillanueva.tabares@gmail.com
