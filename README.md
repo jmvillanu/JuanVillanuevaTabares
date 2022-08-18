@@ -2,7 +2,7 @@
 - 👀 Machine Learning Engineer
 - 🌱 Develop AI solutions using Python, AWS, GCP, SQL, Statistics, Git, GitHub
 - 💞️ I love to solve problems, that's it
-- 📫 How to reach me: juanvillanueva.tabares@gmail.com
+- 📫 How to reach out to me: juanvillanueva.tabares@gmail.com
 
 <!---
 JuanVillanuevaTabares/JuanVillanuevaTabares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
