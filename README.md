@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JuanVillanuevaTabares.
-- 👀 Data Science Fellow, Machine Learning Engineer, Python Developer.
-- 🌱 Machine Learning, Python, Pandas, NumPy, Scikit-learn, SQL, AWS, Statistics, Git, GitHub.
-- 💞️ I’m looking to collaborate on AI projects in Energy, Tech and Healthcare industries.
-- 📫 How to reach me: juanvillanueva.tabares@gmail.com.
+- 👋 Hi, I’m @JuanVillanuevaTabares
+- 👀 Machine Learning Engineer
+- 🌱 Develop AI solutions using Python, AWS, GCP, SQL, Statistics, Git, GitHub
+- 💞️ I love to solve problems, that's it
+- 📫 How to reach me: juanvillanueva.tabares@gmail.com
 
 <!---
 JuanVillanuevaTabares/JuanVillanuevaTabares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
