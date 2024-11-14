@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JuanVillanuevaTabares
-- 👀 Machine Learning Engineer
-- 🌱 Develop AI solutions using Python, AWS, GCP, SQL, Statistics, Git, GitHub
+- 👋 Hi, I’m @jmvillanu
+- 👀 Analytics Engineer
+- 🌱 Develop AI solutions using Python, AWS, Docker, GCP, SQL, Statistics, Git, GitHub
 - 💞️ I love to solve problems, that's it
 - 📫 How to reach out to me: juanvillanueva.tabares@gmail.com
 
